@@ -1,6 +1,4 @@
-Team members:- Dev Shah
-               Mokshi Shah
-               Devang Soni
+Team members:- Dev Shah,Mokshi Shah,Devang Soni
                
 College     :- Devang Patel institute of science and technology
 
