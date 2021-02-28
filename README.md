@@ -2,7 +2,7 @@ Team members:- Dev Shah
                Mokshi Shah
                Devang Soni
                
-Institute   :- CHARUSAT
+College     :- Devang Patel institute of science and technology
 
 Project     :- Visitor Guidance System
 
